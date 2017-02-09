@@ -4,7 +4,6 @@
   "description": "Babel preprocessor for Jest",
   "main": "preprocessor.js",
   "scripts": {
-    "postinstall": "node scripts/postinstall",
     "test": "jest --verbose --coverage"
   },
   "repository": {
